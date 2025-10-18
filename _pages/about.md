@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 Master's student in Computer Science at Columbia University
+
 Email: bs3654@columbia.edu
 
 **Biography:**
