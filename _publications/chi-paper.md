@@ -2,7 +2,7 @@
 title: "Towards Self-Evolving Narrative Systems: Real-Time Adaptation and Long-Term Optimization with LLMs"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-18-paper-title-number-5
+permalink: /publication/chi-paper
 excerpt: 'This paper is about a LLM-based self-evolving narrative system.'
 date: 2025-09-11
 venue: 'ACM CHI 2026'
