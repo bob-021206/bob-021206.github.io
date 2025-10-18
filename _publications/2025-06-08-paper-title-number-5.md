@@ -3,7 +3,7 @@ title: "Towards Self-Evolving Narrative Systems: Real-Time Adaptation and Long-T
 collection: publications
 category: conferences
 permalink: /publication/2025-06-18-paper-title-number-5
-#excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper is about a LLM-based self-evolving narrative system.'
 date: 2025-09-11
 venue: 'ACM CHI 2026'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
