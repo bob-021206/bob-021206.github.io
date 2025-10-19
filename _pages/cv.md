@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,42 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Columbia Engineering, Columbia University, Dec 2026 (expected)
+* B.S. in Computer Science, Duke University, 2025
+* B.S. in Computer Science, Duke Kunshan University, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2024 - Aug 2025: Research Assistant
+  * Duke Kunshan University
+  * Project: Self-Evolving Narrative Systems: Real-Time Adaptation and Long-Term Optimization with LLMs.
+  * Duty including: team leader, platform development, scene optimization, AI workflow, multi-agents system, role playing refinement.
+  * A manuscript describing this work has been submitted to the ACM CHI 2026 Conference. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, C++, Java, Julia. 
+* Frameworks: PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face, OpenCV, Flask.
+* Cloud: Docker, Kubernetes, ArgoCD, CI/CD pipelines, Virtual Machine.
+* Other Tools: Git, Linux, Jupyter, VS Code, Android Studio, Solidworks, Adobe Premiere Pro, Adobe After Effects.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
