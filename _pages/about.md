@@ -18,5 +18,5 @@ AI Agents, Machine Learning, Large Language Models (LLMs), and Human–Computer 
 
 I was fortunate to be advised by [Prof. Bing Luo, Ph.D.](https://luobing1008.github.io/), at Duke Kunshan University, under whose supervision I developed a self-evolving narrative system based on LLMs. This work has been submitted to [ACM CHI 2026](https://chi2026.acm.org/) for review.
 
-[Resume](../assets/Resume_Binyan_Sun.pdf) / [Github](http://www.github.com/bob-021206) / [LinkedIn](https://www.linkedin.com/in/binyan-sun-321b76294) / [Email](bs3654@columbia.edu)
+[Resume](../assets/Resume_Binyan_Sun.pdf) / [Github](http://www.github.com/bob-021206) / [LinkedIn](https://www.linkedin.com/in/binyan-sun-321b76294) / [Email](mailto:bs3654@columbia.edu)
 
